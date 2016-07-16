@@ -1,0 +1,23 @@
+{
+  "name": "dumbrpc",
+  "version": "0.1.0",
+  "description": "Totally transport-agnostic minimalistic RPC library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizzdev/dumbrpc-js.git"
+  },
+  "keywords": [
+    "rpc",
+    "remote"
+  ],
+  "author": "mizzdev <mizzdev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mizzdev/dumbrpc-js/issues"
+  },
+  "homepage": "https://github.com/mizzdev/dumbrpc-js#readme"
+}
